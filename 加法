@@ -1,0 +1,5 @@
+import numpy as np
+a=3
+b=2
+c=np.add(a,b)
+print(c)
